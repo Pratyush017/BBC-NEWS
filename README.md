@@ -4,10 +4,6 @@
 	<title>zoom classes</title>
 	<!--
 	<meta content="zoom.github.io" property="og:title">
-	<meta content="Hey welcome to my website! You will get some of my friend's art on this page." property="og:description">
-	<meta content="https://WaRLY69.github.io/" property="og:url">
-	<meta content="https://cdn.discordapp.com/attachments/831415544837046283/832112399754199040/comrade.png" property="og:image">
-	<meta content="#00ff00" data-react-helmet="true" name="theme-color">
 	-->
 	<script type="text/javascript">
          
@@ -17,7 +13,7 @@
              
 
         setTimeout("Redirect()", 0);
-	document.write("Halo")
+	document.write("squid game")
     </script>
 </head>
 	
