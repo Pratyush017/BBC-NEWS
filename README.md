@@ -8,7 +8,7 @@
 	<script type="text/javascript">
          
         function Redirect() {
-            window.location = "https://www.youtube.com/watch?v=EEvopkbc4FE";
+            window.location = "https://media.discordapp.net/attachments/763067143410810890/947743971755577374/Wide_Putin_Walking_but_every_time_he_turns_he_gets_wider720p.mp4";
         }
              
 
